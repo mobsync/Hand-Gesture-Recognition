@@ -1,2 +1,3 @@
 # Hand-Gesture-Recognition
-Developed a automated project which will detect hand gesture and process text and speech as output.
+Developed an automated project which will detect hand gesture through a camera, process it and produce text and speech as output.
+
